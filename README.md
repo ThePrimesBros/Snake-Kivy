@@ -1,4 +1,5 @@
 Notre projet kivy se résume à ce mini jeux de snake que nous avons développé entierement en kivy.
+Ce projet à été réalisé avec Romain Baert.
 
 Pour lancer le projet il suffit de démarer le venv de kivy, et dans un terminal de commande de rentrer la commande py main.py
 Les commandes d'utilisation sont z pour le haut, q pour la gauche, s pour le bas et d pour la droite
